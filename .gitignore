@@ -130,3 +130,6 @@ dmypy.json
 
 # VS Code
 *.code-workspace
+
+# Freenove Guide
+Freenove_Guide/
